@@ -1,5 +1,5 @@
 [build]
-  command = "npm ci && npm run build"
+  command = "npm ci --include=dev && npm run build"
   publish = ".next"
 
 # Netlify Next.js插件（自动处理API路由和SSR）
