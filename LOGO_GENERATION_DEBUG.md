@@ -45,7 +45,7 @@ Logo生成功能由以下文件控制：
 ### 步骤3：检查环境变量
 确认 `.env.local` 文件中包含：
 ```env
-QWEN_API_KEY=sk-91d5a560957745559734498c99fe1f19
+QWEN_API_KEY=your-qwen-api-key
 ```
 
 ### 步骤4：测试API调用

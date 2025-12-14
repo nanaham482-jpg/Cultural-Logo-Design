@@ -4,8 +4,8 @@
 # OSS区域（例如：oss-cn-hangzhou, oss-cn-beijing, oss-cn-shanghai 等）
 OSS_REGION=oss-cn-hangzhou
 
-# AccessKey ID（您已提供）
-OSS_ACCESS_KEY_ID=LTAI5tRSYkQNMBtaYmQYV2Ag
+# AccessKey ID（请填写您的AccessKey ID）
+OSS_ACCESS_KEY_ID=your-access-key-id
 
 # AccessKey Secret（请填写您的Secret）
 OSS_ACCESS_KEY_SECRET=your-access-key-secret-here
