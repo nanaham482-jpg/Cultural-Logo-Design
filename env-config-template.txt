@@ -1,0 +1,18 @@
+# 阿里云OSS配置
+# 请将以下内容复制到 .env.local 文件中
+
+# OSS区域（例如：oss-cn-hangzhou, oss-cn-beijing, oss-cn-shanghai 等）
+OSS_REGION=oss-cn-hangzhou
+
+# AccessKey ID（您已提供）
+OSS_ACCESS_KEY_ID=LTAI5tRSYkQNMBtaYmQYV2Ag
+
+# AccessKey Secret（请填写您的Secret）
+OSS_ACCESS_KEY_SECRET=your-access-key-secret-here
+
+# OSS存储桶名称
+OSS_BUCKET=your-bucket-name
+
+# OpenAI API配置（可选，如果不配置会使用模拟数据）
+OPENAI_API_KEY=sk-your-openai-api-key
+
